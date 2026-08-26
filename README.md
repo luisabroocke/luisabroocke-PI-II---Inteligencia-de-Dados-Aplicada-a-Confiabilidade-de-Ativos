@@ -10,7 +10,7 @@ A proposta é apoiar estratégias de manutenção preditiva por meio da identifi
 
 Gestores de manutenção e analistas de logística industrial enfrentam falhas recorrentes sem padrões definidos.
 
-O tratamento genérico das falhas gera impactos como estouro de SLA e ineficiência no estoque de peças de reposição.
+O tratamento genérico das falhas gera impactos como **8% de estouro de SLA** e ineficiência no estoque de peças de reposição.
 
 ## Objetivo
 
